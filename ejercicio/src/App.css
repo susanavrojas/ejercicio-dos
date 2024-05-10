@@ -1,0 +1,38 @@
+form {
+   margin-top: -500px;
+}
+
+.form-container {
+   max-width: 400px;
+   margin: 0 auto;
+}
+
+.form-group {
+   margin-bottom: 20px;
+}
+
+.input-field {
+   width: 100%;
+   padding: 10px;
+   font-size: 16px;
+   border-radius: 5px;
+   background-color: #f8edeb;
+}
+
+.btn {
+   background-color: #a2c8cc;
+   color: black;
+   padding: 10px 20px;
+   border: none;
+   cursor: pointer;
+   border-radius: 15px;
+   margin-left: 132px;
+}
+
+.fondo {
+   background-repeat: no-repeat;
+   background-position: center center;
+   width: 100%;
+   margin-left: -553px;
+   margin-top: -189px;
+}
